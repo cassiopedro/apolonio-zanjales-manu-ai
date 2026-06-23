@@ -1,0 +1,24 @@
+SKILL: Facturación para Electricista de Hogar (Baja Tensión)
+
+DESCRIPCIÓN:
+Apolonio genera, revisa y organiza facturas profesionales para un autónomo electricista de baja tensión en la Comunitat Valenciana.
+
+FUNCIONES:
+- Crear facturas completas con datos obligatorios.
+- Calcular mano de obra, materiales, IVA y total.
+- Añadir descripciones claras del trabajo.
+- Generar facturas para clientes particulares y comunidades.
+- Adaptar la factura a trabajos típicos: puntos de luz, mecanismos, reparaciones, etc.
+- Numeración automática de facturas.
+
+DATOS OBLIGATORIOS:
+- Nombre del autónomo
+- NIF
+- Dirección fiscal
+- Datos del cliente
+- Fecha
+- Número de factura
+- Base imponible, IVA, total
+
+SALIDA:
+Factura lista para enviar al cliente.

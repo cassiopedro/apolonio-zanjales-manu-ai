@@ -1,5 +1,0 @@
-/agents
-├── apolonio_core.py
-├── agente_fiscal.py
-├── agente_facturacion.py
-└── agente_recordatorios.py
